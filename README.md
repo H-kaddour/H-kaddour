@@ -1,33 +1,8 @@
 # 👋 Y'all 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=hkaddour)](https://github.com/mohouyizme/1337-readme)
+[![hkaddour's 42 stats](https://badge42.herokuapp.com/api/stats/hkaddour?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 
 ![H-kaddour 's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-kaddour&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-kaddour&layout=radical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -37,6 +12,7 @@
 **H-kaddour/H-kaddour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=hkaddour)](https://github.com/mohouyizme/1337-readme)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
