@@ -1,6 +1,5 @@
 # 👋 Y'all 
-<!--[![hkaddour's 42 stats](https://badge42.herokuapp.com/api/stats/hkaddour?darkmode=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)-->
-[![hkaddour's 42 stats](https://badge.mediaplus.ma/darkblue/hkaddour](https://github.com/oakoudad/badge42)
+[![hkaddour's 42 stats](https://badge.mediaplus.ma/darkblue/hkaddour)](https://github.com/oakoudad/badge42)
 ![H-kaddour 's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-kaddour&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-kaddour&layout=radical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
