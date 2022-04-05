@@ -1,5 +1,5 @@
 # 👋 Y'all 
-![img](img/abstract.gif)
+![img](img/abs.gif)
 
 [![hkaddour's 42 stats](https://badge.mediaplus.ma/darkblue/hkaddour)](https://github.com/oakoudad/badge42)
 ![H-kaddour 's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-kaddour&theme=algolia&show_icons=true)
